@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhdrezaei
+- 👋 Hi, I’m mohammad rezaei
 - 👀 I’m interested in FrontEnd javaScript , React JS
 - 🌱 I’m currently learning React JS and TypeScript
 - 💞️ I’m looking to collaborate on ...
