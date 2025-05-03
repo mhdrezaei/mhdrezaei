@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammad Rezaei<br>👀 I’m interested in Frontend JavaScript , React JS<br>🌱 I’m currently learning React Native<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
+👋 Hi, I’m Mohammad Rezaei<br>👀 I’m interested in Frontend JavaScript , React JS<br>🌱 I’m currently learning Flutter<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
 
 
 ## 🌐 Socials:
